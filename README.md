@@ -1,6 +1,6 @@
 ### Hi there 👋, assalamualaikum i m Hossain Mamun
 #### Tech Lover And Programmer
-![Tech Lover And Programmer](https://i.ibb.co/p2KLYFT/2525117.jpg)
+![Tech Lover And Programmer](https://i.ibb.co/Qb3667b/java-programmer-coder-by-pcbots-wallpaper-preview.jpg)
 
 I am from Bangladesh, I love design and development. I really enjoy learning new technology. I also enjoy wireframing, ui, ux, and design in general.
 
@@ -22,5 +22,3 @@ Skills: Html5, Css3, Bootstrap, Material Ui, Js, React Js, Node Js, Mongodb, MyS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hossainmamun)  
 
 ![Profile views](https://gpvc.arturio.dev/hossainmamun)  
-
-
