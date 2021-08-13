@@ -3,7 +3,7 @@
 
 I am from Bangladesh, I love design and development. I really enjoy learning new technology. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: Html5, Css3, Bootstrap, Material Ui, Js, React Js, Node Js, Mongodb
+Skills: Html5, Css3, Bootstrap, Material Ui, Js, React Js, Node Js, Mongodb, firebase
 
 - 🔭 I’m currently working on own projects 
 - 🌱 I’m currently learning React Js, React Native, Mongodb, Firebase, Node Js 
