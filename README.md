@@ -3,10 +3,9 @@
 
 I am from Bangladesh, I love to developing and programming. I am interested in building excellent applications with modern technology. I love to explore new technology.
 
-Skills: Html5, Css3, Bootstrap, Material Ui, Js, React Js, Node Js, Mongodb, firebase
+Skills: Html5, Css3, Bootstrap5, Js, TypeScript es6, ReactJs, Redux, React-Redux, NodeJs, Mongodb, firebase
 
-- 🔭 I’m currently working on own projects 
-- 🌱 I’m currently learning React Js, React Native, Mongodb, Firebase, Node Js 
+- 🔭 I’m currently working on own projects  
 - 💬 Ask me about your query 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: i like travel and learn new technology 
