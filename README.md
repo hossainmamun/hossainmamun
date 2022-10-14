@@ -1,4 +1,4 @@
-### Hi there 👋, assalamualaikum i m Hossain Mamun
+### Hi there 👋, assalamualaikum I'm Hossain Mamun
 #### Tech Lover And Programmer
 
 I am from Bangladesh, I love to developing and programming. I am interested in building excellent applications with modern technology. I love to explore new technology.
