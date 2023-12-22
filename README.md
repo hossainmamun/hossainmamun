@@ -17,7 +17,7 @@ I'm **Mamun Hossain**, a creative and detail-oriented web developer passionate a
 ### 🛠️ Tech Toolbox
 
 - **Languages:** Javascript.
-- **Frontend:** React, React-router-dom, TailwindCss, Bootstrap.
+- **Frontend:** React, React-router-dom, Tailwindcss, Bootstrap.
 - **Backend:** Node.js, Express, Mongoose, MBC pattern.
 - **Databases:** MongoDB.
 - **Tools:** Git, VS Code, npm.
