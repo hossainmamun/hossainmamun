@@ -1,7 +1,7 @@
 ### 👋 Hello World!
 #### Tech Lover And Programmer
 
-I'm Mamun Hossain, a creative and detail-oriented web developer passionate about crafting exceptional digital experiences. With 3 years of hands-on experience, I've had the privilege of bringing ideas to life through elegant and efficient code.
+I'm **Mamun Hossain**, a creative and detail-oriented web developer passionate about crafting exceptional digital experiences. With 3 years of hands-on experience, I've had the privilege of bringing ideas to life through elegant and efficient code.
 
 ### 💻 What I Do
 
