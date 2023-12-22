@@ -1,22 +1,47 @@
-### Hi there 👋, assalamualaikum I'm Hossain Mamun
+### 👋 Hello World!
 #### Tech Lover And Programmer
 
-I am from Bangladesh, I love to developing and programming. I am interested in building excellent applications with modern technology. I love to explore new technology.
+I'm Mamun Hossain, a creative and detail-oriented web developer passionate about crafting exceptional digital experiences. With 3 years of hands-on experience, I've had the privilege of bringing ideas to life through elegant and efficient code.
 
-Skills: Html5, Css3, Bootstrap5, Js, TypeScript es6, ReactJs, Redux, React-Redux, NodeJs, Mongodb, firebase
+### 💻 What I Do
 
-- 🔭 I’m currently working on own projects  
-- 💬 Ask me about your query 
-- 😄 Pronouns: He/His 
-- ⚡ Fun fact: i like travel and learn new technology 
+- 🌐 Full-stack web developer, proficient in both frontend and backend technologies.
+- 🚀 Enthusiast of responsive and user-centric design.
+- 📱 Experienced in developing cross-platform web applications.
 
+### 🌱 Current Focus
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/hossainmamun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/www.linkedin.com/in/mamun-hossain-2021/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/https://www.facebook.com/mamunhossain.mamun.2021/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='25'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14724928/hossain-mamun?tab=profile)  
+- Exploring the latest trends in web development, including Nextjs, and React-redux.
+- Improving skills in the deep drive of advanced javascript and upcoming latest technology.
+
+### 🛠️ Tech Toolbox
+
+- **Languages:** Javascript.
+- **Frontend:** React, React-router-dom, TailwindCss, Bootstrap.
+- **Backend:** Node.js, Express, Mongoose, MBC pattern.
+- **Databases:** MongoDB, MySQL, [Your Databases].
+- **Tools:** Git, VS Code, npm.
+
+### 📚 What I'm Working On
+
+- **Current Project:** Currently i work 
+- **Side Project:** [Brief Description].
+- **Learning Path:** [What You're Currently Learning].
+
+- ### 🤝 Let's Connect!
+
+- **LinkedIn:** https://www.linkedin.com/in/www.linkedin.com/in/mamun-hossain-2021
+- **GitHub:** https://github.com/hossainmamun
+- **Portfolio:** https://mamunhossain.netlify.app
+
+### 🎯 Fun Facts
+
+- I enjoy turning coffee into code ☕💻.
+- Avid learner and tech geek, always exploring new technologies.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossainmamun)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hossainmamun&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hossainmamun)  
-
-![Profile views](https://gpvc.arturio.dev/hossainmamun)  
+ 
