@@ -24,15 +24,13 @@ I'm Mamun Hossain, a creative and detail-oriented web developer passionate about
 
 ### 📚 What I'm Working On
 
-- **Current Project:** Currently i work 
-- **Side Project:** [Brief Description].
-- **Learning Path:** [What You're Currently Learning].
+- **Current Project:** Currently I am working in a scientific research lab that is based on the MERN stack. the key features of the project are User **Authentication, Data Management, Interactive Dashboards, Scalability, and Full responsiveness**.
 
-- ### 🤝 Let's Connect!
+### 🤝 Let's Connect!
 
-- **LinkedIn:** https://www.linkedin.com/in/www.linkedin.com/in/mamun-hossain-2021
+- **LinkedIn:** https://www.linkedin.com/in/www.linkedin.com/in/mamun-hossain-2021/
 - **GitHub:** https://github.com/hossainmamun
-- **Portfolio:** https://mamunhossain.netlify.app
+- **Portfolio:** https://mamunhossain.netlify.app/
 
 ### 🎯 Fun Facts
 
