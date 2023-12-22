@@ -19,7 +19,7 @@ I'm Mamun Hossain, a creative and detail-oriented web developer passionate about
 - **Languages:** Javascript.
 - **Frontend:** React, React-router-dom, TailwindCss, Bootstrap.
 - **Backend:** Node.js, Express, Mongoose, MBC pattern.
-- **Databases:** MongoDB, MySQL, [Your Databases].
+- **Databases:** MongoDB.
 - **Tools:** Git, VS Code, npm.
 
 ### 📚 What I'm Working On
