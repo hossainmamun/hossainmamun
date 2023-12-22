@@ -36,6 +36,7 @@ I'm Mamun Hossain, a creative and detail-oriented web developer passionate about
 
 - I enjoy turning coffee into code ☕💻.
 - Avid learner and tech geek, always exploring new technologies.
+- I believe that the world is nothing without code.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossainmamun)](https://github.com/anuraghazra/github-readme-stats)
